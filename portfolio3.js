@@ -1,4 +1,4 @@
-const textArray = ["Web Designer"];
+const textArray = ["Web Designer","Python developer"];
 let textIndex = 0;
 let charIndex = 0;
 
